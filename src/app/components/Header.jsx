@@ -32,7 +32,7 @@ export default function Header() {
         {/* Logo Image */}
         <Link href="/" className="flex items-center gap-2">
           <img
-            src="/img/logo-futbol-libre.png"
+            src="/logo.png"
             alt="Fútbol Libre"
             className="h-8 w-auto object-contain"
             onError={(e) => {
